@@ -1,0 +1,4 @@
+<%@include file="../common/navigation-common.jspf"%>
+		<li><a href="/login.action">Login</a></li>
+	</ul>
+</nav>
